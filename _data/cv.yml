@@ -2,96 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Raj Sanjay Shah
     - name: Date of Birth
-      value: 14th March 1879
+      value: 15th July 1998
     - name: Languages
-      value: English, German
+      value: English, Hindi, Gujarati, Marathi, Sanskrit
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Master's in Computer Science
+      institution: Georgia institute of Technology, U.S.A
+      year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Specialization: Machine Learning
+        - Focus: Natural Language Processing
+        - GPA: 4.0
+        - title: Pursuing the Thesis Track
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Thesis in few shot controllable text generation
+            - Advised by Professor Diyi Yang (Stanford)
+    - title: B.E. Computer Science
+      institution: Birla Institute of Technology and Science, Pilani, India
+      year: 2017 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - GPA: 8.54 (out of 10)
+        - Minor in Data Science, GPA: 9.8 (out of 10)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Intern
+      institution: University of Marylan, College Park
+      year: 2021 - On-going
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working with Professor Jordan Boyd-Graber on Adversarial Question Authoring
+        - The objective of this project is to help trivia authors write adversarial questions that stress test existing state of art retrieval models like Dense Passage Retrieval.
+    - title: Software Developer - ML Intern
+      institution: Epic Systems, Verona, WI
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Training Machine Learning models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly. 
+        - Built an end-to-end pipeline trained on customer data to help Providers improve their productivity by saving time on software and spend more time with the patients.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Software Engineer Intern
+      institution: JP Morgan Chase, Mumbai, India
+      year: 2021
+      description: 
+        - Migration of applications from on-premises environments to cloud platforms. Responsible for the automation of testing flows using the postman automation tool.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Research Intern
+      institution: Samsung R&D Institute, Noida, India
+      year: 2020
       description:
+        - Developed a bidirectional Long-short term memory based variable autoencoder to generate melody and chords for piano music. 
+        - Extensively tuned model hyper-parameters and used sampling techniques to create original 16 bar music of a particular style. 
+        - Regularised the latent dimensional space of the encoder-decoder pair using Gauss-normal distributions(Kulback Leibler divergence optimizer).
+        - The work of this internship was a part of the ringtone generation project in the mobile technologies department.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - Donald V. Jackson Fellowship award: Established by Jeannie Jackson in memory of her husband, Don Jackson, a 1971 master’s graduate of IS and a 1965 bachelor’s graduate of the math department. This award supports the College Master’s program and is awarded to a well-rounded, first-year Master’s student who best embodies Don’s values of academic excellence and leadership.
+         
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Domain Specific NLP
+        - Robust and Equitable Models for social good
+    - title: Human Centered Computing
       items:
-        - Description 1.
-        - Description 2.
+        - Quantitative methods for finding impact of technology on humans 
+        - Understanding and improving Online communities
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Poetry, Table Tennis, Reading, Anime, Biking, Kayaking, etc.
