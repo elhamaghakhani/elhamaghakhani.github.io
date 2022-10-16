@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>MSCS GT, Research Intern @ UMD</a>+1 6282809784.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>470 16th St NW</p>
+    <p>Atlanta, Georgia 30363</p>
 
-news: true  # includes a list of news items
+<!-- news: true  # includes a list of news items -->
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a second year master's student at Georgia Institute of Technology. I am interested in building scalable natural language processing models for social good. Actively working on AI for Mental Health and Adversarial Question Authoring. I am skilled in C++, Python, JAVA, Hadoop, Natural Language Processing, Machine Learning algorithms, and Data Structures.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I want to pursue a PhD program with a focus on building and using Natural Language Processing techniques for social good. During my ongoing Master’s program at Georgia Tech, I have been fortunate to work on a variety of projects that use language processing for betterment of online mental health platforms. This has equipped me with a strong foundation of computational social science methods along with a well-rounded experience of working with popular language processing algorithms. Working in a highly motivated research environment full-time in a PhD program will give me a chance to lead innovation for safe and inclusive online communities by building equitable technology, all the while learning from the best professors and research groups in the world.
