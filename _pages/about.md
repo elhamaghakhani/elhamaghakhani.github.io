@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>MSCS GT, Research Intern @ UMD</a>+1 6282809784.
+subtitle: MSCS GT, Research Intern @ UMD +1 6282809784.
 
 profile:
   align: right
