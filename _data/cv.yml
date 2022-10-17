@@ -15,10 +15,10 @@
       institution: Georgia institute of Technology, U.S.A
       year: 2021 - 2023
       description:
-        - Specialization: Machine Learning
-        - Focus: Natural Language Processing
-        - GPA: 4.0
-        - title: Pursuing the Thesis Track
+        - Specialization - Machine Learning
+        - Focus - Natural Language Processing
+        - GPA - 4.0
+        - title: Master's thesis
           contents:
             - Thesis in few shot controllable text generation
             - Advised by Professor Diyi Yang (Stanford)
@@ -26,8 +26,8 @@
       institution: Birla Institute of Technology and Science, Pilani, India
       year: 2017 - 2021
       description:
-        - GPA: 8.54 (out of 10)
-        - Minor in Data Science, GPA: 9.8 (out of 10)
+        - GPA - 8.54 (out of 10)
+        - Minor in Data Science, GPA - 9.8 (out of 10)
 
 - title: Experience
   type: time_table
