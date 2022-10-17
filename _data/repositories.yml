@@ -1,12 +1,9 @@
-# github_users:
-#   - torvalds
-#   - alshedivat
+github_users:
+  - Raj-Sanjay-Shah
 
-# github_repos:
-#   - alshedivat/al-folio
-#   - twbs/bootstrap
-#   - jekyll/jekyll
-#   - jquery/jquery
-#   - FortAwesome/Font-Awesome
-#   - jpswalsh/academicons
-#   - mathjax/MathJax
+github_repos:
+  - Raj-Sanjay-Shah/Gathering-cyber-threat-intelligence-from-Dark-Web-forums-using-Unsupervised-Learning-methods
+  - Raj-Sanjay-Shah/Predicting-the-human-difficulty-of-a-question 
+  - Raj-Sanjay-Shah/QA_Document_Retrieval
+  - JustBluce/QAML
+  - tonyywang/conv-success
