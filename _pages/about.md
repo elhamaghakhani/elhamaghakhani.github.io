@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MSCS GT, Research Intern @ UMD +1 6282809784.
+subtitle: MSCS GT, Research Intern @ UMD.
 
 profile:
   align: right
