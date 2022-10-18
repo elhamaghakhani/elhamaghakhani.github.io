@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Accepted in EMNLP 2022
+title: Super happy that our paper "When FLUE Meets FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain" is accepted to appear at #emnlp2022 (Main) 🥳
 date: 2022-10-14 16:11:00-0400
 inline: true
 ---
