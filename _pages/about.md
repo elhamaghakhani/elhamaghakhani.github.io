@@ -7,7 +7,7 @@ subtitle: MSCS GT, Research Intern @ UMD.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>470 16th St NW</p>
     <p>Atlanta, Georgia 30363</p>
