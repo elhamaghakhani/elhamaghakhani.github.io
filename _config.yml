@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hi, This is Raj! # the website title (if blank, full name will be used instead)
+title: Hi, I am Raj! # the website title (if blank, full name will be used instead)
 first_name: Raj
 middle_name: S.
 last_name: Shah
@@ -26,7 +26,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: github   # github https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_light: fruity   # github https://github.com/jwarby/jekyll-pygments-themes
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
@@ -92,8 +92,7 @@ facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-
+Feel free to email me or call me anytime to set up a chat!
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
