@@ -5,8 +5,8 @@ permalink: /projects/
 description: Ongoing Research Work and Projects!
 nav: true
 nav_order: 2
-display_categories: [Academic, Personal]
-horizontal: false
+display_categories: [Academic]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
