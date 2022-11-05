@@ -14,9 +14,6 @@ category: Academic
         {% include figure.html path="assets/img/metrics_for_conv_success.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-<div class="caption">
-Coefficients for four different regression models utilizing unique success measures. Rating is reported from the prediction (stage 2) step of the Heckman model. Positive coefficients are colored blue and negative coefficients are colored red for explanatory variables. Log-transformed variables are noted with big *. The significance for coefficients are *** for P < .0001, ** for P < 0.001, and * for P < 0.01. Prior Work cites references used in the operationalization of the predictor. Agree refers to consistency across construct levels in our comparison.
-</div>
 
 <p style='text-align: justify;'>People in need of mental health support have reported benefits from interacting with peers online through online mental health platforms (OMHPs). These platforms have been growing in popularity, are accessible and cost-effective, reduce stigma about mental health by building anonymous connections among individuals, empower the sharing of individual journey, and enable individuals in times of need to find advice and support for their problems. Prior research has studied the impact of peer counseling on a variety of metrics such as satisfaction, mental health outcomes, community participation, and language, providing valuable insights on effective support strategies for those in need using social platforms.</p>
 
