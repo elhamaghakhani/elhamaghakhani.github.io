@@ -1,6 +1,6 @@
 ---
 layout: page
-title: QAML: Trivia Question writing Aided by Machine Learning
+title: QAML - Trivia Question writing Aided by Machine Learning
 description: Human in the loop adversarial question writing
 img: assets/img/qaml_teaset.png
 importance: 1
