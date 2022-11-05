@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Numeric Magnitude Comparison Effects in Large Language Models
-description: Behavioral Bench-marking of NLP models
+title: Behavioral Bench-marking of NLP models
+description: Numeric Magnitude Comparison Effects in Large Language Models
 img: assets/img/magnitude.jpg
 importance: 1
 category: Academic
