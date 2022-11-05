@@ -6,7 +6,7 @@ description: Ongoing Research Work and Projects!
 nav: true
 nav_order: 2
 display_categories: [Academic]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
