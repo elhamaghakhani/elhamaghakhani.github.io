@@ -7,6 +7,7 @@ importance: 1
 category: Academic
 ---
 
+
 <p style='text-align: justify;'>Extensive research has been published on the conversational factors of effective volunteer peer counseling on mental health platforms. These studies have focused on predicting counseling expertise using mostly singular outcomes, but little work has been done on examining multiple success outcomes for platform design. To address concerns of validity with reported outcomes and predictors of counseling expertise, we document a process for triangulating among multiple outcome measures available on a single therapy platform to select four outcome metrics: retention in the community, following up in a conversation, ratings for counselors, and user mood scores. Then, we model the relationship between previously reported linguistic predictors of effective counseling with these outcomes. Our findings reveal that predictor variables relate to outcomes differently based on nuances in measurement construct and operationalization details. We suggest actionable insights for therapy platform design based on triangulation of multiple outcomes.</p>
 
 <div class="row">
