@@ -6,7 +6,7 @@ subtitle: MSCS @ GT, Research Intern @ UMD.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_3085.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>470 16th St NW</p>
