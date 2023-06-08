@@ -5,3 +5,5 @@ inline: true
 ---
 
 Received the Donald V. Jackson Fellowship Award.
+
+![alt text](https://github.com/Raj-Sanjay-Shah/raj-sanjay-shah.github.io/tree/master/assets/img/raj_donald.jpg)
