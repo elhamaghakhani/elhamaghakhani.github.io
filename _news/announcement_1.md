@@ -8,7 +8,7 @@ Received the Donald V. Jackson Fellowship Award.
 [Graduated](https://commencement.gatech.edu/graduate/masters/raj-sanjay-shah) from with a Masters in CS at Georgia Tech!
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/raj_donald.jpg" width="300" height="300" title="Won the Donald V. Jackson Fellowship Award!"  class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/raj_donald.jpg" width="500" height="500" title="Won the Donald V. Jackson Fellowship Award!"  class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <!-- ![alt text](https://github.com/Raj-Sanjay-Shah/raj-sanjay-shah.github.io/tree/master/assets/img/raj_donald.jpg) -->
