@@ -10,6 +10,6 @@ Happy to receive [The Marshall D. Williamson Fellowship Award 2023!](https://www
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/raj_marshall.jpg" width="500" height="500" title="Marshall D. Williamson Fellowship Award" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/raj_marshall.jpg" width="400" height="400" title="Marshall D. Williamson Fellowship Award" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
