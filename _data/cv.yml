@@ -11,8 +11,17 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Computer Science
+      institution: Georgia Institute of Technology, U.S.A
+      year: 2023 - 
+      description:
+        - Specialization - Machine Learning
+        - Focus - Natural Language Processing and Cognitive Science
+        - GPA - 4.0
+        - Advised by Prof. Sashank Varma (Georgia Tech) and Prof. Diyi Yang (Stanford)
+  
     - title: Master's in Computer Science
-      institution: Georgia institute of Technology, U.S.A
+      institution: Georgia Institute of Technology, U.S.A
       year: 2021 - 2023
       description:
         - Specialization - Machine Learning
@@ -20,7 +29,7 @@
         - GPA - 4.0
         - title: Master's thesis
           contents:
-            - Thesis in few shot controllable text generation
+            - Thesis: Using Natural Language Processing for Understanding and Development of Online Mental Health Platforms
             - Advised by Professor Diyi Yang (Stanford)
     - title: B.E. Computer Science
       institution: Birla Institute of Technology and Science, Pilani, India
@@ -32,19 +41,27 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
-      institution: University of Marylan, College Park
-      year: 2021 - On-going
+    - title: Sr. Research Software Engineer - AI
+      institution: IBM Research - Human-Centered AI Team
+      year: 2023
       description:
-        - Working with Professor Jordan Boyd-Graber on Adversarial Question Authoring
-        - The objective of this project is to help trivia authors write adversarial questions that stress test existing state of art retrieval models like Dense Passage Retrieval.
+        - Explored different intervention strategies for high-quality human-AI collaborative data creation. Built a full-stack application for user studies. User studies investigate the idea of appropriate user reliance on AI agents using subtle real-time nudges.
+
     - title: Software Developer - ML Intern
       institution: Epic Systems, Verona, WI
       year: 2022
       description:
         - Training Machine Learning models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly. 
-        - Built an end-to-end pipeline trained on customer data to help Providers improve their productivity by saving time on software and spend more time with the patients.
+        - Built an end-to-end pipeline trained on customer data to help Providers improve their productivity by saving time on software and spending more time with the patients.
 
+
+    - title: Research Intern
+      institution: University of Maryland, College Park
+      year: 2021 - 2022
+      description:
+        - Working with Professor Jordan Boyd-Graber on Adversarial Question Authoring
+        - The objective of this project is to help trivia authors write adversarial questions that stress test existing state of art retrieval models like Dense Passage Retrieval.
+        
     - title: Software Engineer Intern
       institution: JP Morgan Chase, Mumbai, India
       year: 2021
