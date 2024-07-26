@@ -2,12 +2,12 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. student at Interactive Computing, Georgia Tech. 
+subtitle: Ph.D. student in Information Science, Drexel University. 
 
 profile:
   align: right
-  image: IMG_3085.jpg
-  image_circular: false # crops the image to make it circular
+  image: IMG_3085.jpeg
+  image_circular: true # crops the image to make it circular
 
 
 news: true  # includes a list of news items
