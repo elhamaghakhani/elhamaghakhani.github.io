@@ -2,41 +2,38 @@
   type: map
   contents:
     - name: Full Name
-      value: Raj Sanjay Shah
+      value: Elham Aghakhani
     - name: Date of Birth
-      value: 15th July 1998
+      value: 2nd March 1995
     - name: Languages
-      value: English, Hindi, Gujarati, Marathi, Sanskrit
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD in Computer Science
-      institution: Georgia Institute of Technology, U.S.A
-      year: 2023 - 
+    - title: PhD in Information Science
+      institution: Drexel University, U.S.A
+      year: 2024 - 
       description:
         - Specialization - Machine Learning
         - Focus - Natural Language Processing and Cognitive Science
         - GPA - 4.0
-        - Advised by Prof. Sashank Varma (Georgia Tech) and Prof. Diyi Yang (Stanford)
+        - Advised by Dr. Shadi Rezapour
   
     - title: Master's in Computer Science
-      institution: Georgia Institute of Technology, U.S.A
-      year: 2021 - 2023
+      institution: K. N. Toosi University of Technology, Tehran, Iran
+      year: 2020 - 2023
       description:
-        - Specialization - Machine Learning
-        - Focus - Natural Language Processing
+        - Natural Language Processing, Computational Social Science
         - GPA - 4.0
         - title: Master's thesis
           contents:
-            - Thesis: Using Natural Language Processing for Understanding and Development of Online Mental Health Platforms
-            - Advised by Professor Diyi Yang (Stanford)
+            - Thesis: Automatic Text Summarization Using Large Language Models and Reinforcement Learning
     - title: B.E. Computer Science
-      institution: Birla Institute of Technology and Science, Pilani, India
-      year: 2017 - 2021
+      institution: K. N. Toosi University of Technology, Tehran, Iran
+      year: 2015 - 2019
       description:
-        - GPA - 8.54 (out of 10)
-        - Minor in Data Science, GPA - 9.8 (out of 10)
+        - Minor in Software Engineering
 
 - title: Experience
   type: time_table
