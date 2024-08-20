@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-10-14 16:11:00-0400
+date: 2024-06-17 16:11:00-0400
 inline: true
 ---
-Super happy that my paper "When FLUE Meets FLANG: Benchmarks and Large Pre-trained Language Model for Financial Domain" is accepted to appear at #emnlp2022 (Main) 🥳. Check out the models and the benchmark here https://salt-nlp.github.io/FLANG/.
+Super happy that our paper "Decoding the Narratives: Analyzing Personal Drug Experiences Shared on Reddit" is accepted to appear at #ACL2024 (Findings) 🥳. Check out the paper here https://arxiv.org/pdf/2406.12117
