@@ -16,7 +16,7 @@
       year: 2024 - 
       description:
         - Specialization - Machine Learning
-        - Focus - Natural Language Processing and Cognitive Science
+        - Focus - Natural Language Processing and Natural Language Processing
         - GPA - 4.0
         - Advised by Dr. Shadi Rezapour
   
@@ -24,7 +24,7 @@
       institution: K. N. Toosi University of Technology, Tehran, Iran
       year: 2020 - 2023
       description:
-        - Natural Language Processing, Computational Social Science
+        - Natural Language Processing
         - GPA - 4.0
         - title: Master's thesis
           contents:
@@ -38,66 +38,43 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Sr. Research Software Engineer - AI
-      institution: IBM Research - Human-Centered AI Team
-      year: 2023
-      description:
-        - Explored different intervention strategies for high-quality human-AI collaborative data creation. Built a full-stack application for user studies. User studies investigate the idea of appropriate user reliance on AI agents using subtle real-time nudges.
-
-    - title: Software Developer - ML Intern
-      institution: Epic Systems, Verona, WI
-      year: 2022
-      description:
-        - Training Machine Learning models to predict workflow actions of Health Care Providers with the goal of bringing relevant patient information to the Provider Dashboard on-the-fly. 
-        - Built an end-to-end pipeline trained on customer data to help Providers improve their productivity by saving time on software and spending more time with the patients.
-
-
-    - title: Research Intern
-      institution: University of Maryland, College Park
+    - title: Research Assistant
+      institution: Drexel University
+      year: 2024
+     
+    - title: Teaching Assistant
+      institution: K. N. Toosi University of Technology
       year: 2021 - 2022
       description:
-        - Working with Professor Jordan Boyd-Graber on Adversarial Question Authoring
-        - The objective of this project is to help trivia authors write adversarial questions that stress test existing state of art retrieval models like Dense Passage Retrieval.
-        
-    - title: Software Engineer Intern
-      institution: JP Morgan Chase, Mumbai, India
-      year: 2021
-      description: 
-        - Migration of applications from on-premises environments to cloud platforms. Responsible for the automation of testing flows using the postman automation tool.
+        - Teaching assistant in ‘Probabilistic Graphical Models’ graduate course
+        - Teaching assistant in ‘Machine Learning’ graduate course
+        - Teaching assistant in ‘Statistical Pattern Recognition’ graduate course
 
-    - title: Research Intern
-      institution: Samsung R&D Institute, Noida, India
-      year: 2020
+
+    - title: Software Engineer 
+      institution: ERON Company, Tehran, Iran
+      year: 2019 - 2020
       description:
-        - Developed a bidirectional Long-short term memory based variable autoencoder to generate melody and chords for piano music. 
-        - Extensively tuned model hyper-parameters and used sampling techniques to create original 16 bar music of a particular style. 
-        - Regularised the latent dimensional space of the encoder-decoder pair using Gauss-normal distributions(Kulback Leibler divergence optimizer).
-        - The work of this internship was a part of the ringtone generation project in the mobile technologies department.
-
-
-
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items: 
-        - Donald V. Jackson Fellowship award - Established by Jeannie Jackson in memory of her husband, Don Jackson, a 1971 master’s graduate of IS and a 1965 bachelor’s graduate of the math department. This award supports the College Master’s program and is awarded to a well-rounded, first-year Master’s student who best embodies Don’s values of academic excellence and leadership.
-         
+        - Designing and building databases, web applications, and webpages using backend technologies.
+        
+    - title: Software Engineer
+      institution: VADA House of Mobile, Tehran, Iran
+      year: 2019
+      description: 
+        - Design and Implement Web Applications and APIs with PHP, Laravel
+        
+   
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Natural Language Processing
       items: 
-        - Domain Specific NLP
-        - Robust and Equitable Models for social good
-    - title: Human Centered Computing
-      items:
-        - Quantitative methods for finding impact of technology on humans 
-        - Understanding and improving Online communities
+        - NLP for social good
+        
+    - title: Computational Social Science
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Poetry, Table Tennis, Reading, Anime, Biking, Kayaking, etc.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Movie,Swimming ,Anime, Biking, Kayaking, etc.
