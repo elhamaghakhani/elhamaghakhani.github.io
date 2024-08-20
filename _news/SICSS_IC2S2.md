@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2023-04-15 07:59:00-0400
+date: 2024-07-20 07:59:00-0400
 inline: true
 ---
 I attended SICSS and IC2S2 at the University of Pennsylvania!
