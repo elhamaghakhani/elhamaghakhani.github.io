@@ -27,8 +27,7 @@
         - Natural Language Processing
         - GPA - 4.0
         - title: Master's thesis
-          contents:
-            - Thesis: Automatic Text Summarization Using Large Language Models and Reinforcement Learning
+          contents: Automatic Text Summarization Using Large Language Models and Reinforcement Learning
     - title: B.E. Computer Science
       institution: K. N. Toosi University of Technology, Tehran, Iran
       year: 2015 - 2019
