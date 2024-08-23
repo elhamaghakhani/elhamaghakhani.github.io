@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Elham Aghakhani
-    - name: Date of Birth
-      value: 2nd March 1995
+    # - name: Date of Birth
+    #   value: 2nd March 1995
     - name: Languages
       value: English, Persian
 
