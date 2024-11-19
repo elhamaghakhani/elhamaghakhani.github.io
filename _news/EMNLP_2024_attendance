@@ -1,1 +1,11 @@
-
+---
+layout: post
+date: 2024-09-20 16:11:00-0400
+inline: true
+---
+Drexel Team at EMNLP 2024!
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/emnlp2024.jpeg" width="400" height="400" title="EMNLP in Miami!" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
