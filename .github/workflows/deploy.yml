@@ -20,8 +20,8 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0.2'
-        bundler-cache: false  # Disabled automatic caching to prevent conflicts
+        ruby-version: '3.1'  # Upgrade Ruby version
+        bundler-cache: false
 
     - name: Fix Bundler & Dependencies
       run: |
