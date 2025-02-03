@@ -25,11 +25,12 @@ jobs:
 
     - name: Fix Bundler & Dependencies
       run: |
-        gem update --system
-        gem install bundler
-        bundle update --bundler
-        rm -rf vendor/bundle  # Ensure no conflicting dependencies
-        bundle install
+        gem install rubygems-update -v 3.3.26  # Ensure RubyGems version is compatible with Ruby 3.0.2
+        update_rubygems
+        gem install bundler -v 2.6.3  # Explicitly install the correct Bundler version
+        rm -rf vendor/bundle .bundle Gemfile.lock  # Remove existing dependencies
+        bundle install --jobs 4 --retry 3  # Install all gems with parallel processing
+
 
     - name: Install additional dependencies
       run: |
