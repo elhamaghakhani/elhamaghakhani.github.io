@@ -115,8 +115,8 @@
   <article class="post-content">
     <p>Grad Cohort CRA – Fun &amp; Insightful!</p>
 <div class="row">
-    <div class="col-sm-6 mt-3">
-        <figure>
+  <div class="col-sm-12 mt-3 photo-stack">
+    <figure>
 
   <picture>
     
@@ -126,15 +126,13 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/GC-1.jpg" class="img-fluid rounded z-depth-1" width="300" height="300" title="Grad Cohort 2025" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/GC-1.jpg" class="stacked-img img-fluid rounded z-depth-1 img1" width="300" height="300" title="Grad Cohort 2025" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
 </figure>
 
-    </div>
-    <div class="col-sm-6 mt-3">
-        <figure>
+    <figure>
 
   <picture>
     
@@ -144,15 +142,41 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/GC-2.JPG" class="img-fluid rounded z-depth-1" width="300" height="300" title="Grad Cohort 2025" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/GC-2.JPG" class="stacked-img img-fluid rounded z-depth-1 img2" width="300" height="300" title="Grad Cohort 2025" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
 </figure>
 
+  </div>
+</div>
 
-</div>
-</div>
+<style>
+.photo-stack {
+  position: relative;
+  width: max-content;
+  margin: auto;
+}
+
+.stacked-img {
+  position: absolute;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.img1 {
+  transform: rotate(-5deg);
+  z-index: 1;
+}
+
+.img2 {
+  transform: rotate(8deg);
+  left: 30px;
+  top: 20px;
+  z-index: 2;
+}
+</style>
+
 
   </article>
 
