@@ -8,8 +8,8 @@ Grad Cohort CRA – Fun & Insightful!
 <div class="row">
   <div class="photo-stack-wrapper">
     <div class="photo-stack">
-      {% include figure.html path="assets/img/GC-1.jpg" width="400" height="400" title="Photo 1" class="stacked-img img1" %}
-      {% include figure.html path="assets/img/GC-2.JPG" width="400" height="400" title="Photo 2" class="stacked-img img2" %}
+      {% include figure.html path="assets/img/GC-1.jpg" width="200" title="Photo 1" class="stacked-img img1" %}
+      {% include figure.html path="assets/img/GC-2.JPG" width="200" title="Photo 2" class="stacked-img img2" %}
     </div>
   </div>
 </div>
