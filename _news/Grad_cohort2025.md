@@ -1,7 +1,7 @@
 ---
-title: "EMNLP 2024 Attendance"
+title: "Grad Cohort 2025"
 layout: post
-date: 2024-11-19 16:11:00-0400
+date: 2025-04-09 16:11:00-0400
 inline: true
 ---
 Grad Cohort CRA – Fun & Insightful!
