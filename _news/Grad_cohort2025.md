@@ -6,12 +6,13 @@ inline: true
 ---
 Grad Cohort CRA – Fun & Insightful!
 <div class="row">
-  <div class="col-sm-12 mt-3 photo-stack-wrapper">
-    <div class="photo-stack">
-      {% include figure.html path="assets/img/GC-1.jpg" width="300" height="300" title="Grad Cohort 2025" class="stacked-img img-fluid rounded z-depth-1 img1" %}
-      {% include figure.html path="assets/img/GC-2.JPG" width="300" height="300" title="Grad Cohort 2025" class="stacked-img img-fluid rounded z-depth-1 img2" %}
-    </div>
+<div class="photo-stack-wrapper">
+  <div class="photo-stack">
+    <img src="path/to/image1.jpg" class="stacked-img img1" />
+    <img src="path/to/image2.jpg" class="stacked-img img2" />
   </div>
+</div>
+
 </div>
 
 <style>
@@ -26,6 +27,7 @@ Grad Cohort CRA – Fun & Insightful!
   position: relative;
   width: max-content;
   margin: auto;
+  height: 100%; /* Add this line */
 }
 
 .stacked-img {
