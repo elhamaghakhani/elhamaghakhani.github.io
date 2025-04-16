@@ -6,13 +6,12 @@ inline: true
 ---
 Grad Cohort CRA – Fun & Insightful!
 <div class="row">
-<div class="photo-stack-wrapper">
-  <div class="photo-stack">
-    <img src="assets/img/GC-1.jpg" class="stacked-img img1" />
-    <img src="assets/img/GC-2.JPG" class="stacked-img img2" />
+  <div class="photo-stack-wrapper">
+    <div class="photo-stack">
+      {% include figure.html path="assets/img/GC-1.jpg" title="Photo 1" class="stacked-img img1" %}
+      {% include figure.html path="assets/img/GC-2.JPG" title="Photo 2" class="stacked-img img2" %}
+    </div>
   </div>
-</div>
-
 </div>
 
 <style>
