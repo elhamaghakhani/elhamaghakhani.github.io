@@ -6,20 +6,20 @@ inline: true
 ---
 Grad Cohort CRA – Fun & Insightful!
 
-<div class="row justify-content-center">
-  <div class="photo-stack-wrapper">
-    <div class="photo-stack">
-      {% include figure.html path="assets/img/GC-1.jpg" title="Photo 1" class="stacked-img img1" %}
-      {% include figure.html path="assets/img/GC-2.JPG" title="Photo 2" class="stacked-img img2" %}
+<div class="row">
+  <div class="col-sm-4">
+    <div class="photo-stack-wrapper">
+      <div class="photo-stack">
+        <img src="/assets/img/GC-1.jpg" alt="Photo 1" class="stacked-img img1">
+        <img src="/assets/img/GC-2.JPG" alt="Photo 2" class="stacked-img img2">
+      </div>
     </div>
   </div>
 </div>
 
 <style>
 .photo-stack-wrapper {
-  display: block;
-  max-width: 300px;
-  margin: 0 auto;
+  max-width: 250px;
   height: 350px;
   position: relative;
 }
@@ -30,7 +30,7 @@ Grad Cohort CRA – Fun & Insightful!
   height: 100%;
 }
 
-.stacked-img img {
+.stacked-img {
   width: 100%;
   height: auto;
   position: absolute;
@@ -38,12 +38,12 @@ Grad Cohort CRA – Fun & Insightful!
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.img1 img {
+.img1 {
   transform: rotate(-5deg);
   z-index: 1;
 }
 
-.img2 img {
+.img2 {
   transform: rotate(8deg);
   left: 30px;
   top: 20px;
