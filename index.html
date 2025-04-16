@@ -148,8 +148,9 @@
                   <td>
                     Grad Cohort CRA – Fun &amp; Insightful!
 <div class="row">
-  <div class="col-sm-12 mt-3 photo-stack">
-    <figure>
+  <div class="col-sm-12 mt-3 photo-stack-wrapper">
+    <div class="photo-stack">
+      <figure>
 
   <picture>
     
@@ -165,7 +166,7 @@
 
 </figure>
 
-    <figure>
+      <figure>
 
   <picture>
     
@@ -181,14 +182,19 @@
 
 </figure>
 
+    </div>
   </div>
 </div>
 
 <style>
-.photo-stack {
+.photo-stack-wrapper {
+  height: 350px; /* adjust based on how tall the stacked images are */
   position: relative;
+}
+
+.photo-stack {
+  position: absolute;
   width: max-content;
-  margin: auto;
 }
 
 .stacked-img {
@@ -208,6 +214,7 @@
   top: 20px;
   z-index: 2;
 }
+
 </style>
 
  
