@@ -147,7 +147,8 @@
                   <th scope="row">Apr 9, 2025</th>
                   <td>
                     Grad Cohort CRA – Fun &amp; Insightful!
-<div class="row">
+
+<div class="row justify-content-center">
   <div class="photo-stack-wrapper">
     <div class="photo-stack">
       <figure>
@@ -160,7 +161,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/GC-1.jpg" class="stacked-img img1" width="200" height="auto" title="Photo 1" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/GC-1.jpg" class="stacked-img img1" width="auto" height="auto" title="Photo 1" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -176,7 +177,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/GC-2.JPG" class="stacked-img img2" width="200" height="auto" title="Photo 2" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/GC-2.JPG" class="stacked-img img2" width="auto" height="auto" title="Photo 2" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -187,38 +188,39 @@
 </div>
 
 <style>
-
 .photo-stack-wrapper {
-  display: inline-block;
+  display: block;
+  max-width: 300px;
+  margin: 0 auto;
   height: 350px;
-  width: 100%;
+  position: relative;
 }
 
 .photo-stack {
   position: relative;
-  width: max-content;
-  margin: auto;
-  height: 100%; /* Add this line */
+  width: 100%;
+  height: 100%;
 }
 
-.stacked-img {
+.stacked-img img {
+  width: 100%;
+  height: auto;
   position: absolute;
   transition: transform 0.3s ease;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.img1 {
+.img1 img {
   transform: rotate(-5deg);
   z-index: 1;
 }
 
-.img2 {
+.img2 img {
   transform: rotate(8deg);
   left: 30px;
   top: 20px;
   z-index: 2;
 }
-
 </style>
 
  
