@@ -6,7 +6,7 @@ inline: true
 ---
 Grad Cohort CRA – Fun & Insightful!
 
-<div class="row">
+<div class="row" style="margin-top: 10px;">
   <div class="col-sm-4">
     <div class="photo-stack-wrapper">
       <div class="photo-stack">
