@@ -45,7 +45,7 @@ Grad Cohort CRA – Fun & Insightful!
 
 .img2 {
   transform: rotate(8deg);
-  left: 30px;
+  left: 50px;
   top: 20px;
   z-index: 2;
 }
