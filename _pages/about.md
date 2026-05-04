@@ -18,5 +18,6 @@ social: true  # includes social icons at the bottom of the page
 
   <p style='text-align: justify;'>
   I'm a third-year PhD student in Information Science at Drexel University, specializing in Natural Language Processing (NLP) with a focus on social good applications. My research explores the innovative use of NLP technologies to address and mitigate social challenges, aiming to enhance the effectiveness and accessibility of digital communications in various social contexts.
+    
   <a href="assets/Elham_s_CV.pdf" target="_blank">View my CV</a>.
 </p>
